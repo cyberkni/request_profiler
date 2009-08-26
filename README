@@ -18,11 +18,11 @@ Example Script
 Usage
 =====
 
-  script/performance/profiler profile_script.rb
+  script/performance/request profile_script.rb
   
 Options
 =======
   
-  script/performance/profiler --help
+  script/performance/request --help
   
 Copyright (c) 2009 David Heinemeier Hansson, released under the MIT license
